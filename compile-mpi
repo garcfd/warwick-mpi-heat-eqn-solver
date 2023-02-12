@@ -1,0 +1,1 @@
+mpif90 -Wall -Wtabs -fbounds-check -fbacktrace -pedantic -O2 -o warwick warwick3D-05.for
